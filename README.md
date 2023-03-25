@@ -13,7 +13,7 @@
 <hr>
 <p>
 This project is made with 
-<a href="#">@AscentAcademy</a> for the internship program for the month of March-2023. <br>
+<a href="#">@AscentAcademy</a> for web development internship program for the month of March-2023. <br>
 
 Build a responsive front-end for this project using the Streamlit library, which frees up the time to
 concentrate on the real back-end and the solutions we want to offer. Python beginners should start
